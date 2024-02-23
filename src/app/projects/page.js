@@ -1,9 +1,10 @@
+import CardProjects from '@/components/CardProjects'
 import React from 'react'
 
 const pageProjects = () => {
   return (
     <div>
-        <h1>desde projects</h1>
+        <CardProjects />
     </div>
   )
 }
