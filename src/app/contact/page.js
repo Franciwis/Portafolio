@@ -1,9 +1,10 @@
+import CardContacto from '@/components/CardContacto'
 import React from 'react'
 
 const pageContact = () => {
   return (
     <div>
-        <h1>desde contact</h1>
+       <CardContacto />
     </div>
   )
 }
