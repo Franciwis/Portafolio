@@ -18,10 +18,10 @@ const CardAbout = () => {
             <p className='text-lg '>
            Soy Francis Yañez
             </p>
-            <p className='text-sm'>
+            <p className='text-sm font-mono'>
             y estoy emocionada de tener la oportunidad de compartir un poco sobre mí como profesional he estado inmersa en este campo durante 7 meses y cada proyecto me brinda la oportunidad de fusionar creatividad con habilidades técnicas para construir soluciones innovadoras. 
 
-Mi experiencia abarca lenguaje de programación como HTML 5, JavaScript y CSS, diferentes framework como Node js, React js, . Estoy comprometida con el aprendizaje continuo y siempre busco estar al tanto de las últimas tendencias y avances en la industria.
+Mi experiencia abarca diferentes tecnologías como JavaScript, CSS, Node js, React js, Mongo DB, etc . Estoy comprometida con el aprendizaje continuo y siempre busco estar al tanto de las últimas tendencias y avances en la industria.
 
 
 
