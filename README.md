@@ -1,36 +1,30 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Bienvenido a mi Portafolio de Desarrollo Web Full Stack
 
-First, run the development server:
+¡Hola! Soy Francis Yañez, una desarrolladora web full stack apasionado por crear experiencias digitales impactantes. Este repositorio alberga una muestra de mis proyectos y habilidades en el campo del desarrollo web. ¡Echa un vistazo!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Sobre mí
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Soy una entusiasta del desarrollo web con experiencia en una variedad de tecnologías y herramientas. Mi pasión por la programación y el diseño me impulsa a explorar constantemente nuevas ideas y soluciones creativas. Algunas de las tecnologías con las que trabajo incluyen:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Frontend: HTML, CSS, JavaScript (React.js, Vue.js)
+- Backend: Node.js, Express.js
+- Bases de datos: MongoDB
+- Otros: Git, RESTful APIs
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Estoy constantemente aprendiendo y mejorando mis habilidades para ofrecer productos de alta calidad y experiencias de usuario excepcionales.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contacto
+
+¡Gracias por explorar mi portafolio! Si estás interesado en colaborar en proyectos, tienes alguna pregunta o simplemente quieres conectarte, no dudes en ponerte en contacto conmigo a través de francisymerino@gmail.com.
+
+¡Espero poder trabajar juntos pronto!
+
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://portafolio-rho-lake.vercel.app/
