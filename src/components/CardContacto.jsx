@@ -2,7 +2,7 @@
 import Form from 'react-bootstrap/Form';
 import React from 'react'
 import { motion } from 'framer-motion';
-
+import Image from 'next/image';
 const CardContacto = () => {
     return (
         <div className=' bg-black text-white'>
@@ -11,6 +11,7 @@ const CardContacto = () => {
         transition={{ duration: 0.5 }} className='grid grid-cols-2 w-full h-screen justify-center items-center px-28
         gap-10' >
            <div>
+           <Image src='https://z-p3-scontent.fscl29-1.fna.fbcdn.net/v/t39.30808-6/429664236_10160827336478400_4437457987753928529_n.jpg?stp=dst-jpg_p600x600&_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGBwMlbmUmGJD0nfjr1h6ASFMBcrCyBqtMUwFysLIGq03XV37YRUkfPB6zdI9kct_4&_nc_ohc=Hir0TXZvblEAX98bUdO&_nc_zt=23&_nc_ht=z-p3-scontent.fscl29-1.fna&oh=00_AfBXyi9HVvN4yhJ6cFgnbRogoy1_zn_G3SY1yviVAFU5mw&oe=65E0885D' width={300} height={300} alt="Francis" className="rounded-xl" />
             <p>
                 datos Francis Yañez
 

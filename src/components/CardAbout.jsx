@@ -14,7 +14,7 @@ const CardAbout = () => {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.5 }} className='flex flex-col w-full h-screen justify-center items-center px-28
          gap-10 bg-black text-white'>
-            <Image src='https://img.freepik.com/vector-premium/mujer-feliz-sonriendo_478440-350.jpg?size=338&ext=jpg&ga=GA1.1.1880011253.1705276800&semt=ais' width={300} height={300} alt="Francis" className="rounded-xl" />
+            <Image src='https://z-p3-scontent.fscl29-1.fna.fbcdn.net/v/t39.30808-6/429649705_10160827336603400_5394441285470942145_n.jpg?stp=dst-jpg_p600x600&_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeHvDDSqAYJFKx2Af4MjvDIJjQUQNxc2Sd2NBRA3FzZJ3am4pZepZz-lMCwoek04YZo&_nc_ohc=uMolUaIvbw4AX-zRDeh&_nc_zt=23&_nc_ht=z-p3-scontent.fscl29-1.fna&oh=00_AfC8n2-tJ8zMvbuzPfi4ol2F1BUOrI3TX5qit4tU_USeVw&oe=65DFED1D' width={300} height={300} alt="Francis" className="rounded-xl" />
             <p className='text-lg '>
            Soy Francis Yañez
             </p>
